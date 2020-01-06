@@ -1,1 +1,2 @@
-EXE FILES
+need visual studio files to run .exe file.
+paste stock.txt in same directory as .exe file
